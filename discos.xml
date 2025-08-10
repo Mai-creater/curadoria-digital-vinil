@@ -1,0 +1,324 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" version="3.7">
+
+  <!-- Disco 1: Abbey Road -->
+  <mods>
+    <titleInfo>
+      <title>Abbey Road</title>
+      <subTitle>The Beatles</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>The Beatles</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>sound recording</typeOfResource>
+    <genre>Vinyl Record</genre>
+    <originInfo>
+      <dateIssued>1969-09-26</dateIssued>
+      <publisher>Apple Records</publisher>
+    </originInfo>
+    <physicalDescription>
+      <form>Vinil 12", estéreo, 33 RPM</form>
+    </physicalDescription>
+    <abstract>Último álbum gravado pelos Beatles como grupo, marcando o fim de uma era. Inclui faixas como "Come Together" e "Here Comes the Sun". Disco de vinil Abbey Road, digitalizado e disponibilizado para curadoria digital.</abstract>
+    <subject>Rock britânico, anos 60, contracultura</subject>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="local">vinil-abbeyroad-001</identifier>
+    <identifier type="catalogNumber">PCS 7088</identifier>
+    <location>
+      <url usage="primary" access="preview" displayLabel="Link para álbum completo no YouTube">https://youtu.be/N00421FXeTg</url>
+    </location>
+    <relatedItem type="host" displayLabel="Capa do disco Abbey Road">
+      <titleInfo>
+        <title>Imagem da capa Abbey Road</title>
+      </titleInfo>
+      <location>
+        <url usage="primary" access="preview" displayLabel="Imagem da capa Abbey Road">/imagens/abbeyroad.jpg</url>
+      </location>
+    </relatedItem>
+    <contributor>
+      <name>George Martin</name>
+      <role>
+        <roleTerm type="text">Producer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Ringo Starr</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Paul McCartney</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <source>Acervo pessoal de José B. Lima</source>
+    <relation>Documentário Get Back, movimento contracultural dos anos 60</relation>
+    <coverage>Reino Unido, anos 1960</coverage>
+    <rights>DIREITOS RESERVADOS À APPLE CORPS LTD.</rights>
+    <type>Sound; Musical Recording</type>
+    <format>Vinil 12", estéreo, 33 RPM</format>
+  </mods>
+
+  <!-- Disco 2: Clube da Esquina -->
+  <mods>
+    <titleInfo>
+      <title>Clube da Esquina</title>
+      <subTitle>Milton Nascimento e Lô Borges</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Milton Nascimento</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <name type="personal">
+      <namePart>Lô Borges</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>sound recording</typeOfResource>
+    <genre>Vinyl Record</genre>
+    <originInfo>
+      <dateIssued>1972-03</dateIssued>
+      <publisher>Odeon</publisher>
+    </originInfo>
+    <physicalDescription>
+      <form>Vinil duplo 12", estéreo</form>
+    </physicalDescription>
+    <abstract>Álbum duplo que marcou uma revolução estética na música brasileira em 1972, reunindo vários músicos mineiros. Disco de vinil Clube da Esquina, digitalizado e disponibilizado para curadoria digital.</abstract>
+    <subject>MPB, regionalismo, experimentação</subject>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">por</languageTerm>
+    </language>
+    <identifier type="local">vinil-clubedaesquina-002</identifier>
+    <identifier type="catalogNumber">MOFB 3731</identifier>
+    <location>
+      <url usage="primary" access="preview" displayLabel="Link para álbum completo no YouTube">https://youtu.be/WwTf61AZNEo</url>
+    </location>
+    <relatedItem type="host" displayLabel="Capa do disco Clube da Esquina">
+      <titleInfo>
+        <title>Imagem da capa Clube da Esquina</title>
+      </titleInfo>
+      <location>
+        <url usage="primary" access="preview" displayLabel="Imagem da capa Clube da Esquina">/imagens/clubedaesquina.jpg</url>
+      </location>
+    </relatedItem>
+    <contributor>
+      <name>Beto Guedes</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Wagner Tiso</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Toninho Horta</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <source>Acervo pessoal de José B. Lima</source>
+    <relation>Movimento Clube da Esquina, documentários e biografias de Milton</relation>
+    <coverage>Brasil, anos 1970, Minas Gerais</coverage>
+    <rights>DIREITOS RESERVADOS À EMI</rights>
+    <type>Sound; Musical Recording</type>
+    <format>Vinil duplo 12", estéreo</format>
+  </mods>
+
+  <!-- Disco 3: Kind of Blue -->
+  <mods>
+    <titleInfo>
+      <title>Kind of Blue</title>
+      <subTitle>Miles Davis</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Miles Davis</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>sound recording</typeOfResource>
+    <genre>Vinyl Record</genre>
+    <originInfo>
+      <dateIssued>1959-08-17</dateIssued>
+      <publisher>Columbia Records</publisher>
+    </originInfo>
+    <physicalDescription>
+      <form>Vinil 12", estéreo, mono</form>
+    </physicalDescription>
+    <abstract>Obra-prima do jazz lançada em 1959, com colaborações de Bill Evans e John Coltrane. Disco de vinil Kind of Blue, digitalizado e disponibilizado para curadoria digital.</abstract>
+    <subject>Jazz modal, improvisação</subject>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="local">vinil-kindofblue-003</identifier>
+    <identifier type="catalogNumber">CL 1355</identifier>
+    <location>
+      <url usage="primary" access="preview" displayLabel="Link para álbum completo no YouTube">https://youtu.be/PqjzXPv4-z8</url>
+    </location>
+    <relatedItem type="host" displayLabel="Capa do disco Kind of Blue">
+      <titleInfo>
+        <title>Imagem da capa Kind of Blue</title>
+      </titleInfo>
+      <location>
+        <url usage="primary" access="preview" displayLabel="Imagem da capa Kind of Blue">/imagens/kindofblue.jpg</url>
+      </location>
+    </relatedItem>
+    <contributor>
+      <name>Bill Evans</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>John Coltrane</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <source>Acervo pessoal de José B. Lima</source>
+    <relation>Jazz dos anos 1950, bebop e cool jazz</relation>
+    <coverage>EUA, anos 1950</coverage>
+    <rights>DIREITOS RESERVADOS À COLUMBIA</rights>
+    <type>Sound; Musical Recording</type>
+    <format>Vinil 12", estéreo, mono</format>
+  </mods>
+
+  <!-- Disco 4: El Mal Querer -->
+  <mods>
+    <titleInfo>
+      <title>El Mal Querer</title>
+      <subTitle>Rosalía</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Rosalía</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>sound recording</typeOfResource>
+    <genre>Vinyl Record</genre>
+    <originInfo>
+      <dateIssued>2018-11-02</dateIssued>
+      <publisher>Sony Music</publisher>
+    </originInfo>
+    <physicalDescription>
+      <form>Vinil, digital, estéreo</form>
+    </physicalDescription>
+    <abstract>Álbum conceitual baseado em um romance medieval, com fusão de flamenco, trap e R&amp;B. Disco de vinil El Mal Querer, digitalizado e disponibilizado para curadoria digital.</abstract>
+    <subject>Flamenco contemporâneo, feminismo</subject>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+    </language>
+    <identifier type="local">vinil-elmalquerer-004</identifier>
+    <identifier type="catalogNumber">19075897032</identifier>
+    <location>
+      <url usage="primary" access="preview" displayLabel="Link para álbum completo no YouTube">https://youtu.be/Ic1FQIpb09k</url>
+    </location>
+    <relatedItem type="host" displayLabel="Capa do disco El Mal Querer">
+      <titleInfo>
+        <title>Imagem da capa El Mal Querer</title>
+      </titleInfo>
+      <location>
+        <url usage="primary" access="preview" displayLabel="Imagem da capa El Mal Querer">/imagens/elmalquerer.jpg</url>
+      </location>
+    </relatedItem>
+    <contributor>
+      <name>El Guincho</name>
+      <role>
+        <roleTerm type="text">Producer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Pablo Díaz-Reixa</name>
+      <role>
+        <roleTerm type="text">Producer</roleTerm>
+      </role>
+    </contributor>
+    <source>Acervo pessoal de José B. Lima</source>
+    <relation>Literatura medieval, feminismo contemporâneo</relation>
+    <coverage>Espanha, anos 2010</coverage>
+    <rights>DIREITOS RESERVADOS À SONY</rights>
+    <type>Sound; Musical Recording</type>
+    <format>Vinil, digital, estéreo</format>
+  </mods>
+
+  <!-- Disco 5: Acabou Chorare -->
+  <mods>
+    <titleInfo>
+      <title>Acabou Chorare</title>
+      <subTitle>Novos Baianos</subTitle>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Novos Baianos</namePart>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>sound recording</typeOfResource>
+    <genre>Vinyl Record</genre>
+    <originInfo>
+      <dateIssued>1972-07</dateIssued>
+      <publisher>Som Livre</publisher>
+    </originInfo>
+    <physicalDescription>
+      <form>Vinil 12", estéreo, 33 RPM</form>
+    </physicalDescription>
+    <abstract>Ícone da contracultura musical brasileira de 1972, mistura samba, rock e psicodelia. Disco de vinil Acabou Chorare, digitalizado e disponibilizado para curadoria digital.</abstract>
+    <subject>MPB, Tropicália, samba-rock</subject>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">por</languageTerm>
+    </language>
+    <identifier type="local">vinil-acabouchorare-005</identifier>
+    <identifier type="catalogNumber">4.047.039</identifier>
+    <location>
+      <url usage="primary" access="preview" displayLabel="Link para álbum completo no YouTube">https://youtu.be/BoYP5oHMX9I</url>
+    </location>
+    <relatedItem type="host" displayLabel="Capa do disco Acabou Chorare">
+      <titleInfo>
+        <title>Imagem da capa Acabou Chorare</title>
+      </titleInfo>
+      <location>
+        <url usage="primary" access="preview" displayLabel="Imagem da capa Acabou Chorare">/imagens/acabouchorare.jpg</url>
+      </location>
+    </relatedItem>
+    <contributor>
+      <name>Moraes Moreira</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Pepeu Gomes</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <contributor>
+      <name>Baby do Brasil</name>
+      <role>
+        <roleTerm type="text">Performer</roleTerm>
+      </role>
+    </contributor>
+    <source>Acervo pessoal de José B. Lima</source>
+    <relation>Movimento Tropicália, ditadura militar</relation>
+    <coverage>Brasil, anos 1970</coverage>
+    <rights>DIREITOS RESERVADOS AOS AUTORES E SOM LIVRE</rights>
+    <type>Sound; Musical Recording</type>
+    <format>Vinil 12", estéreo, 33 RPM</format>
+  </mods>
+
+</modsCollection>
